@@ -5,7 +5,9 @@ Enter text to translate in "original.txt"
 
 Open "LANGUAGE CODES FOR USER" to check language codes for translation
 
-To call, use command line and enter: python translate.py original_language language_to_translate_to 
+To call, use command line and enter: python translator.py original_language language_to_translate_to 
+
+For example, to translate from English to Spanish, command is python translator.py "en" "es"
 
 Uses system.argv
 
